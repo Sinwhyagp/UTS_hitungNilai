@@ -1,0 +1,2 @@
+rootProject.name = "UTS_hitungNilai"
+include ':app'
